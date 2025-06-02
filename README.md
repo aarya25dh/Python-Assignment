@@ -1,9 +1,16 @@
 # Python Basics Workshop Assignment
 
-This repository contains beginner-friendly solutions for the 7-day Python Basics Workshop assignment. Each function was written by a computer science student who just learned the basics of Python, including:
+This repository contains beginner-friendly solutions for the assignment given in accordance with the Code For Change Python Basics Workshop. Each function was written by a computer science student who just learned the basics of Python, including:
 
 - Keywords
-- If-else conditions
+- Slicing
+- Indexing
+- List Methods
+- Tuples
+- Sets
+- Dictionaries
+- Pre-built Functions
+- Conditional statements
 - Loops
 - String and list handling
 - Function definitions
