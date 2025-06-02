@@ -20,7 +20,7 @@ This repository contains beginner-friendly solutions for the assignment given in
 1. Even or Odd Checker  
 2. Basic Calculator  
 3. Maximum of Three Numbers 
-4. Vowel Counter (manual method)  
+4. Vowel Counter
 5. Positive Numbers Filter  
 6. Factorial Finder
 7. Palindrome Checker  
